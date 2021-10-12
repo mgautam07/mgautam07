@@ -13,3 +13,6 @@ I'm a sophomore at Thapar Institute of Engineering and Technology. I am a buddin
 - 💭 Ask me about all things Web
 - 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/gautam-malhotra-a8b158202/f) | [Gmail](mgautam2k2@gmail.com)
 
+![Gautam's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgautam07&show_icons=true&theme=solarized-dark&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgautam07&layout=compact&theme=radical)
+
